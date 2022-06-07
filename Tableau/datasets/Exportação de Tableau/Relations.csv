@@ -1,0 +1,523 @@
+﻿CISP;Município;Região de Governo (Relacao);Unidade Territorial;AISP (Relacao);RISP (Relacao)
+166;Angra dos Reis;Costa Verde; Abraão;33;5
+166;Angra dos Reis;Costa Verde; Angra dos Reis;33;5
+166;Angra dos Reis;Costa Verde; Cunhambebe;33;5
+166;Angra dos Reis;Costa Verde; Jacuecanga;33;5
+166;Angra dos Reis;Costa Verde; Mambucaba;33;5
+166;Angra dos Reis;Costa Verde; Praia de Araçatiba;33;5
+136;Aperibé;Noroeste Fluminense;Aperibé;36;6
+118;Araruama;Baixadas Litorâneas; Araruama;25;4
+118;Araruama;Baixadas Litorâneas; Morro Grande;25;4
+118;Araruama;Baixadas Litorâneas; São Vicente de Paula;25;4
+108;Areal;Centro-Sul Fluminense;Areal;38;7
+127;Armação dos Búzios;Baixadas Litorâneas;Armação dos Búzios;25;4
+132;Arraial do Cabo;Baixadas Litorâneas;Arraial do Cabo;25;4
+88;Barra do Piraí;Médio Paraíba; Barra do Piraí;10;5
+88;Barra do Piraí;Médio Paraíba; Dorandia;10;5
+88;Barra do Piraí;Médio Paraíba; Ipiabas;10;5
+88;Barra do Piraí;Médio Paraíba; São José do Turvo;10;5
+88;Barra do Piraí;Médio Paraíba; Vargem Alegre;10;5
+90;Barra Mansa;Médio Paraíba; Antonio Rocha;28;5
+90;Barra Mansa;Médio Paraíba; Floriano;28;5
+90;Barra Mansa;Médio Paraíba; Nossa Senhora do Amparo;28;5
+90;Barra Mansa;Médio Paraíba; Rialto;28;5
+90;Barra Mansa;Médio Paraíba;Regiões Administrativas I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV;28;5
+54;Belford Roxo;Metropolitana; Areia Branca;39;3
+54;Belford Roxo;Metropolitana; Jardim Redentor;39;3
+54;Belford Roxo;Metropolitana; Lote XV;39;3
+54;Belford Roxo;Metropolitana; Nova Aurora;39;3
+54;Belford Roxo;Metropolitana; Parque São José;39;3
+158;Bom Jardim;Serrana;Banquete;11;7
+158;Bom Jardim;Serrana;Barra Alegre;11;7
+158;Bom Jardim;Serrana;Bom Jardim;11;7
+158;Bom Jardim;Serrana;São José do Ribeirão;11;7
+144;Bom Jesus de Itabapoana;Noroeste Fluminense; Bom Jesus de Itabapoana;29;6
+144;Bom Jesus de Itabapoana;Noroeste Fluminense; Calheiros;29;6
+144;Bom Jesus de Itabapoana;Noroeste Fluminense; Carabuçú;29;6
+144;Bom Jesus de Itabapoana;Noroeste Fluminense; Pirapetinga de Bom Jesus;29;6
+144;Bom Jesus de Itabapoana;Noroeste Fluminense; Rosal;29;6
+144;Bom Jesus de Itabapoana;Noroeste Fluminense; Serrinha;29;6
+126;Cabo Frio;Baixadas Litorâneas;Cabo Frio;25;4
+126;Cabo Frio;Baixadas Litorâneas;Tamoios;25;4
+159;Cachoeiras de Macacu;Metropolitana; Cachoeiras de Macacu;35;4
+159;Cachoeiras de Macacu;Metropolitana; Japuíba;35;4
+159;Cachoeiras de Macacu;Metropolitana; Subaio;35;4
+142;Cambuci;Noroeste Fluminense; Cambuci;36;6
+142;Cambuci;Noroeste Fluminense; Funil;36;6
+142;Cambuci;Noroeste Fluminense; Monte Verde;36;6
+142;Cambuci;Noroeste Fluminense; São João do Paraíso;36;6
+142;Cambuci;Noroeste Fluminense; Três Irmãos;36;6
+134;Campos dos Goytacazes;Norte Fluminense; Campos dos Goytacazes;8;6
+146;Campos dos Goytacazes;Norte Fluminense; Campos dos Goytacazes;8;6
+134;Campos dos Goytacazes;Norte Fluminense; Dores de Macabu;8;6
+134;Campos dos Goytacazes;Norte Fluminense; Ibitioca;8;6
+134;Campos dos Goytacazes;Norte Fluminense; Morangaba;8;6
+146;Campos dos Goytacazes;Norte Fluminense; Morro do Coco;8;6
+134;Campos dos Goytacazes;Norte Fluminense; Mussurepe;8;6
+146;Campos dos Goytacazes;Norte Fluminense; Santa Maria;8;6
+134;Campos dos Goytacazes;Norte Fluminense; Santo Amaro de Campos;8;6
+146;Campos dos Goytacazes;Norte Fluminense; Santo Eduardo;8;6
+134;Campos dos Goytacazes;Norte Fluminense; São Sebastião de Campos;8;6
+134;Campos dos Goytacazes;Norte Fluminense; Serrinha;8;6
+134;Campos dos Goytacazes;Norte Fluminense; Tocos;8;6
+146;Campos dos Goytacazes;Norte Fluminense; Travessão;8;6
+146;Campos dos Goytacazes;Norte Fluminense; Vila Nova de Campos;8;6
+153;Cantagalo;Serrana;Boa Sorte;11;7
+153;Cantagalo;Serrana;Cantagalo;11;7
+153;Cantagalo;Serrana;Euclidelândia;11;7
+153;Cantagalo;Serrana;Santa Rita da Floresta;11;7
+153;Cantagalo;Serrana;São Sebastião do Paraíba;11;7
+130;Carapebus;Norte Fluminense; Carapebus;32;6
+130;Carapebus;Norte Fluminense; Centro;32;6
+130;Carapebus;Norte Fluminense; Praia de Carapebus;32;6
+130;Carapebus;Norte Fluminense; Rodagem;32;6
+130;Carapebus;Norte Fluminense; UB-S;32;6
+148;Cardoso Moreira;Norte Fluminense;Cardoso Moreira;29;6
+148;Cardoso Moreira;Norte Fluminense;São Joaquim;29;6
+112;Carmo;Serrana;Carmo;30;7
+112;Carmo;Serrana;Córrego da Prata;30;7
+112;Carmo;Serrana;Porto Velho do Cunha;30;7
+121;Casimiro de Abreu;Baixadas Litorâneas; Barra de São João;32;6
+121;Casimiro de Abreu;Baixadas Litorâneas; Casimiro de Abreu;32;6
+121;Casimiro de Abreu;Baixadas Litorâneas; Professor Souza;32;6
+121;Casimiro de Abreu;Baixadas Litorâneas; Rio Dourado;32;6
+108;Comendador Levy Gasparian;Centro-Sul Fluminense;Afonso Arinos;38;7
+108;Comendador Levy Gasparian;Centro-Sul Fluminense;Comendador Levy Gasparian;38;7
+122;Conceição de Macabú;Norte Fluminense;Conceição de Macabú;32;6
+122;Conceição de Macabú;Norte Fluminense;Macabuzinho;32;6
+154;Cordeiro;Serrana;Cordeiro;11;7
+152;Duas Barras;Serrana;Duas Barras;11;7
+152;Duas Barras;Serrana;Monnerat;11;7
+60;Duque de Caxias;Metropolitana;Campos Elyseos;15;3
+59;Duque de Caxias;Metropolitana;Duque de Caxias;15;3
+62;Duque de Caxias;Metropolitana;Imbariê;15;3
+61;Duque de Caxias;Metropolitana;Xerém;15;3
+98;Engenheiro Paulo de Frontin;Centro-Sul Fluminense;Engenheiro Paulo de Frontin;10;5
+98;Engenheiro Paulo de Frontin;Centro-Sul Fluminense;Sacra Família do Tinguá;10;5
+67;Guapimirim;Metropolitana;Guapimirim;34;3
+129;Iguaba Grande;Baixadas Litorâneas;Iguaba Grande;25;4
+71;Itaboraí;Metropolitana; Cabuçú;35;4
+71;Itaboraí;Metropolitana; Itaboraí;35;4
+71;Itaboraí;Metropolitana; Itambí;35;4
+71;Itaboraí;Metropolitana; Porto das Caixas;35;4
+71;Itaboraí;Metropolitana; Sambaetiba;35;4
+50;Itaguaí;Metropolitana;Ibituporanga;24;3
+50;Itaguaí;Metropolitana;Itaguaí;24;3
+148;Italva;Noroeste Fluminense;Italva;29;6
+135;Itaocara;Noroeste Fluminense; Batatal;36;6
+135;Itaocara;Noroeste Fluminense; Estrada Nova;36;6
+135;Itaocara;Noroeste Fluminense; Itaocara;36;6
+135;Itaocara;Noroeste Fluminense; Jaguarembe;36;6
+135;Itaocara;Noroeste Fluminense; Laranjais;36;6
+135;Itaocara;Noroeste Fluminense; Portela;36;6
+143;Itaperuna;Noroeste Fluminense; Boaventura;29;6
+143;Itaperuna;Noroeste Fluminense; Comendador Venâncio;29;6
+143;Itaperuna;Noroeste Fluminense; Itajara;29;6
+143;Itaperuna;Noroeste Fluminense; Itaperuna;29;6
+143;Itaperuna;Noroeste Fluminense; Nossa Senhora da Penha;29;6
+143;Itaperuna;Noroeste Fluminense; Raposo;29;6
+143;Itaperuna;Noroeste Fluminense; Retiro do Muriaé;29;6
+99;Itatiaia;Médio Paraíba;Itatiaia;37;5
+63;Japeri;Metropolitana; Engenheiro Pedreira;24;3
+63;Japeri;Metropolitana; Japeri;24;3
+63;Japeri;Metropolitana; Marajoara;24;3
+63;Japeri;Metropolitana; Pedra Lisa;24;3
+63;Japeri;Metropolitana; Rio D`Ouro;24;3
+138;Laje do Muriaé;Noroeste Fluminense;Laje do Muriaé;29;6
+123;Macaé;Norte Fluminense; Aeroporto;32;6
+123;Macaé;Norte Fluminense; Barra de Macaé;32;6
+123;Macaé;Norte Fluminense; Cabiúnas;32;6
+123;Macaé;Norte Fluminense; Centro;32;6
+123;Macaé;Norte Fluminense; Imboassica;32;6
+154;Macuco;Serrana;Macuco;11;7
+65;Magé;Metropolitana; Magé;34;3
+65;Magé;Metropolitana; Santo Aleixo;34;3
+65;Magé;Metropolitana; Suruí;34;3
+66;Magé;Metropolitana;Guia de Copaíba;34;3
+66;Magé;Metropolitana;Inhomirim;34;3
+165;Mangaratiba;Costa Verde; Vila Muriquí;33;5
+165;Mangaratiba;Costa Verde;Conceição de Jacareí;33;5
+165;Mangaratiba;Costa Verde;Itacuruçá;33;5
+165;Mangaratiba;Costa Verde;Mangaratiba;33;5
+82;Maricá;Metropolitana;Inoã;12;4
+82;Maricá;Metropolitana;Maricá;12;4
+97;Mendes;Centro-Sul Fluminense;Mendes;10;5
+53;Mesquita;Metropolitana; Banco de Areia;20;3
+53;Mesquita;Metropolitana; Chatuba;20;3
+53;Mesquita;Metropolitana; Mesquita;20;3
+96;Miguel Pereira;Centro-Sul Fluminense; Conrado;10;5
+96;Miguel Pereira;Centro-Sul Fluminense; Governador Portela;10;5
+96;Miguel Pereira;Centro-Sul Fluminense; Miguel Pereira;10;5
+137;Miracema;Noroeste Fluminense; Paraíso do Tobias;36;6
+137;Miracema;Noroeste Fluminense;Miracema;36;6
+137;Miracema;Noroeste Fluminense;Venda das Flores;36;6
+140;Natividade;Noroeste Fluminense;Bom Jesus do Querendo;29;6
+140;Natividade;Noroeste Fluminense;Natividade;29;6
+140;Natividade;Noroeste Fluminense;Ourania;29;6
+57;Nilópolis;Metropolitana;Nilópolis;20;3
+57;Nilópolis;Metropolitana;Olinda;20;3
+79;Niterói;Metropolitana; Badu;12;4
+78;Niterói;Metropolitana; Baldeador;12;4
+78;Niterói;Metropolitana; Barreto;12;4
+76;Niterói;Metropolitana; Boa Viagem;12;4
+79;Niterói;Metropolitana; Cachoeiras;12;4
+81;Niterói;Metropolitana; Cafubá;12;4
+81;Niterói;Metropolitana; Camboinhas;12;4
+79;Niterói;Metropolitana; Cantagalo;12;4
+78;Niterói;Metropolitana; Caramujo;12;4
+76;Niterói;Metropolitana; Centro;12;4
+79;Niterói;Metropolitana; Charitas;12;4
+77;Niterói;Metropolitana; Cubango;12;4
+81;Niterói;Metropolitana; Engenho do Mato;12;4
+78;Niterói;Metropolitana; Engenhoca;12;4
+76;Niterói;Metropolitana; Fátima;12;4
+78;Niterói;Metropolitana; Fonseca;12;4
+76;Niterói;Metropolitana; Gragoatá;12;4
+77;Niterói;Metropolitana; Icaraí;12;4
+76;Niterói;Metropolitana; Ilha da Conceição;12;4
+76;Niterói;Metropolitana; Ingá;12;4
+81;Niterói;Metropolitana; Itacoatiara;12;4
+81;Niterói;Metropolitana; Itaipu;12;4
+79;Niterói;Metropolitana; Ititioca;12;4
+81;Niterói;Metropolitana; Jacaré;12;4
+81;Niterói;Metropolitana; Jardim Imbuí;12;4
+79;Niterói;Metropolitana; Jurujuba;12;4
+79;Niterói;Metropolitana; Largo da Batalha;12;4
+79;Niterói;Metropolitana; Maceió;12;4
+79;Niterói;Metropolitana; Maria Paula;12;4
+79;Niterói;Metropolitana; Matapaca;12;4
+76;Niterói;Metropolitana; Morro do Estado;12;4
+79;Niterói;Metropolitana; Muriqui;12;4
+77;Niterói;Metropolitana; Pé Pequeno;12;4
+81;Niterói;Metropolitana; Piratininga;12;4
+76;Niterói;Metropolitana; Ponta da Areia;12;4
+81;Niterói;Metropolitana; Rio do Ouro;12;4
+78;Niterói;Metropolitana; Santa Bárbara;12;4
+77;Niterói;Metropolitana; Santa Rosa;12;4
+78;Niterói;Metropolitana; Santana;12;4
+76;Niterói;Metropolitana; São Domingos;12;4
+79;Niterói;Metropolitana; São Francisco;12;4
+76;Niterói;Metropolitana; São Lourenço;12;4
+79;Niterói;Metropolitana; Sapê;12;4
+78;Niterói;Metropolitana; Tenente Jardim;12;4
+81;Niterói;Metropolitana; Várzea das Moças;12;4
+78;Niterói;Metropolitana; Viçoso Jardim;12;4
+79;Niterói;Metropolitana; Vila Progresso;12;4
+77;Niterói;Metropolitana; Viradouro;12;4
+77;Niterói;Metropolitana; Vital Brasil;12;4
+151;Nova Friburgo;Serrana;Amparo;11;7
+151;Nova Friburgo;Serrana;Campo do Coelho;11;7
+151;Nova Friburgo;Serrana;Conselheiro Paulino;11;7
+151;Nova Friburgo;Serrana;Lumiar;11;7
+151;Nova Friburgo;Serrana;Nova Friburgo;11;7
+151;Nova Friburgo;Serrana;Riograndina;11;7
+151;Nova Friburgo;Serrana;São Pedro da Serra;11;7
+58;Nova Iguaçu;Metropolitana; Austin;20;3
+56;Nova Iguaçu;Metropolitana; Cabuçú;20;3
+56;Nova Iguaçu;Metropolitana; Comendador Soares;20;3
+56;Nova Iguaçu;Metropolitana; Km32;20;3
+58;Nova Iguaçu;Metropolitana; Miguel Couto;20;3
+58;Nova Iguaçu;Metropolitana; Posse;20;3
+58;Nova Iguaçu;Metropolitana; Tinguá;20;3
+58;Nova Iguaçu;Metropolitana; Vila de Cava;20;3
+52;Nova Iguaçu;Metropolitana;Centro;20;3
+51;Paracambi;Metropolitana;Paracambi;24;3
+107;Paraíba do Sul;Centro-Sul Fluminense;Inconfidência;38;7
+107;Paraíba do Sul;Centro-Sul Fluminense;Paraíba do Sul;38;7
+107;Paraíba do Sul;Centro-Sul Fluminense;Salutaris;38;7
+107;Paraíba do Sul;Centro-Sul Fluminense;Werneck;38;7
+167;Paraty;Costa Verde; Paraty;33;5
+167;Paraty;Costa Verde; Paraty-Mirim;33;5
+167;Paraty;Costa Verde; Tarituba;33;5
+96;Paty do Alferes;Centro-Sul Fluminense;Avelar;10;5
+96;Paty do Alferes;Centro-Sul Fluminense;Paty do Alferes;10;5
+105;Petrópolis;Metropolitana;Cascatinha;26;7
+106;Petrópolis;Metropolitana;Itaipava;26;7
+106;Petrópolis;Metropolitana;Pedro do Rio;26;7
+105;Petrópolis;Metropolitana;Petrópolis;26;7
+106;Petrópolis;Metropolitana;Posse;26;7
+101;Pinheiral;Médio Paraíba;Pinheiral;28;5
+94;Piraí;Médio Paraíba; Arrozal;10;5
+94;Piraí;Médio Paraíba; Monumento;10;5
+94;Piraí;Médio Paraíba; Piraí;10;5
+94;Piraí;Médio Paraíba; Santanésia;10;5
+139;Porciúncula;Noroeste Fluminense;Porciúncula;29;6
+139;Porciúncula;Noroeste Fluminense;Purilândia;29;6
+139;Porciúncula;Noroeste Fluminense;Santa Clara;29;6
+100;Porto Real;Médio Paraíba;Porto Real;37;5
+100;Quatis;Médio Paraíba; Falcão;37;5
+100;Quatis;Médio Paraíba; Quatis;37;5
+100;Quatis;Médio Paraíba; Ribeirão de São Joaquim;37;5
+55;Queimados;Metropolitana; Centro;24;3
+55;Queimados;Metropolitana; Nordeste;24;3
+55;Queimados;Metropolitana; Norte;24;3
+55;Queimados;Metropolitana; Oeste;24;3
+55;Queimados;Metropolitana; Sul. Leste;24;3
+130;Quissamã;Norte Fluminense;Quissamã;32;6
+89;Resende;Médio Paraíba; Agulhas Negras;37;5
+89;Resende;Médio Paraíba; Engenheiro Passos;37;5
+89;Resende;Médio Paraíba; Fumaça;37;5
+89;Resende;Médio Paraíba; Pedra Selada;37;5
+89;Resende;Médio Paraíba; Resende;37;5
+119;Rio Bonito;Metropolitana;Boa Esperança;35;4
+119;Rio Bonito;Metropolitana;Rio Bonito;35;4
+168;Rio Claro;Médio Paraíba; Getulândia;28;5
+168;Rio Claro;Médio Paraíba; Lídice;28;5
+168;Rio Claro;Médio Paraíba; Passa Três;28;5
+168;Rio Claro;Médio Paraíba; Rio Claro;28;5
+168;Rio Claro;Médio Paraíba; São João Marcos;28;5
+92;Rio das Flores;Médio Paraíba; Abarracamento;10;5
+92;Rio das Flores;Médio Paraíba; Manuel Duarte;10;5
+92;Rio das Flores;Médio Paraíba; Rio das Flores;10;5
+92;Rio das Flores;Médio Paraíba; Taboas;10;5
+128;Rio das Ostras;Baixadas Litorâneas;Rio das Ostras;32;6
+24;Rio de Janeiro;Metropolitana; Abolição;3;1
+39;Rio de Janeiro;Metropolitana; Acari;41;2
+24;Rio de Janeiro;Metropolitana; Água Santa;3;1
+26;Rio de Janeiro;Metropolitana; Água Santa;3;1
+19;Rio de Janeiro;Metropolitana; Alto da Boa Vista;6;1
+31;Rio de Janeiro;Metropolitana; Anchieta;41;2
+20;Rio de Janeiro;Metropolitana; Andaraí;6;1
+32;Rio de Janeiro;Metropolitana; Anil;18;2
+37;Rio de Janeiro;Metropolitana; Bancários;17;1
+34;Rio de Janeiro;Metropolitana; Bangu;14;2
+16;Rio de Janeiro;Metropolitana; Barra da Tijuca;31;2
+42;Rio de Janeiro;Metropolitana; Barra de Guaratiba;31;2
+39;Rio de Janeiro;Metropolitana; Barros Filho;41;2
+21;Rio de Janeiro;Metropolitana; Benfica;22;1
+30;Rio de Janeiro;Metropolitana; Bento Ribeiro;9;2
+21;Rio de Janeiro;Metropolitana; Bonsucesso;22;1
+10;Rio de Janeiro;Metropolitana; Botafogo;2;1
+22;Rio de Janeiro;Metropolitana; Brás de Pina;16;1
+38;Rio de Janeiro;Metropolitana; Brás de Pina;16;1
+23;Rio de Janeiro;Metropolitana; Cachambi;3;1
+37;Rio de Janeiro;Metropolitana; Cacuia;17;1
+17;Rio de Janeiro;Metropolitana; Caju;4;1
+42;Rio de Janeiro;Metropolitana; Camorim;31;2
+30;Rio de Janeiro;Metropolitana; Campinho;9;2
+33;Rio de Janeiro;Metropolitana; Campo dos Afonsos;14;2
+35;Rio de Janeiro;Metropolitana; Campo Grande;40;2
+29;Rio de Janeiro;Metropolitana; Cascadura;9;2
+6;Rio de Janeiro;Metropolitana; Catumbi;4;1
+29;Rio de Janeiro;Metropolitana; Cavalcanti;9;2
+6;Rio de Janeiro;Metropolitana; Centro;4;1
+4;Rio de Janeiro;Metropolitana; Centro;5;1
+5;Rio de Janeiro;Metropolitana; Centro;5;1
+32;Rio de Janeiro;Metropolitana; Cidade de Deus;18;2
+6;Rio de Janeiro;Metropolitana; Cidade Nova;4;1
+37;Rio de Janeiro;Metropolitana; Cidade Universitária;17;1
+37;Rio de Janeiro;Metropolitana; Cocotá;17;1
+40;Rio de Janeiro;Metropolitana; Coelho Neto;9;2
+40;Rio de Janeiro;Metropolitana; Colégio;9;2
+27;Rio de Janeiro;Metropolitana; Colégio;41;2
+38;Rio de Janeiro;Metropolitana; Cordovil;16;1
+9;Rio de Janeiro;Metropolitana; Cosme Velho;2;1
+35;Rio de Janeiro;Metropolitana; Cosmos;40;2
+39;Rio de Janeiro;Metropolitana; Costa Barros;41;2
+32;Rio de Janeiro;Metropolitana; Curicica;18;2
+44;Rio de Janeiro;Metropolitana; Del Castilho;3;1
+33;Rio de Janeiro;Metropolitana; Deodoro;14;2
+24;Rio de Janeiro;Metropolitana; Encantado;3;1
+29;Rio de Janeiro;Metropolitana; Engenheiro Leal;9;2
+44;Rio de Janeiro;Metropolitana; Engenho da Rainha;3;1
+24;Rio de Janeiro;Metropolitana; Engenho de Dentro;3;1
+26;Rio de Janeiro;Metropolitana; Engenho de Dentro;3;1
+25;Rio de Janeiro;Metropolitana; Engenho Novo;3;1
+6;Rio de Janeiro;Metropolitana; Estácio;4;1
+9;Rio de Janeiro;Metropolitana; Flamengo;2;1
+37;Rio de Janeiro;Metropolitana; Freguesia;17;1
+41;Rio de Janeiro;Metropolitana; Freguesia;18;2
+37;Rio de Janeiro;Metropolitana; Galeão;17;1
+4;Rio de Janeiro;Metropolitana; Gamboa;5;1
+32;Rio de Janeiro;Metropolitana; Gardênia Azul;18;2
+15;Rio de Janeiro;Metropolitana; Gávea;23;1
+34;Rio de Janeiro;Metropolitana; Gericinó;14;2
+9;Rio de Janeiro;Metropolitana; Glória;2;1
+20;Rio de Janeiro;Metropolitana; Grajaú;6;1
+42;Rio de Janeiro;Metropolitana; Grumari;31;2
+31;Rio de Janeiro;Metropolitana; Guadalupe;41;2
+43;Rio de Janeiro;Metropolitana; Guaratiba;27;2
+21;Rio de Janeiro;Metropolitana; Higienópolis;22;1
+40;Rio de Janeiro;Metropolitana; Honório Gurgel;9;2
+10;Rio de Janeiro;Metropolitana; Humaitá;2;1
+44;Rio de Janeiro;Metropolitana; Inhaúma;3;1
+35;Rio de Janeiro;Metropolitana; Inhoaíba;40;2
+27;Rio de Janeiro;Metropolitana; Irajá;41;2
+16;Rio de Janeiro;Metropolitana; Itanhangá;31;2
+25;Rio de Janeiro;Metropolitana; Jacaré;3;1
+32;Rio de Janeiro;Metropolitana; Jacarepaguá;18;2
+25;Rio de Janeiro;Metropolitana; Jacarezinho;3;1
+38;Rio de Janeiro;Metropolitana; Jardim América;16;1
+15;Rio de Janeiro;Metropolitana; Jardim Botânico;23;1
+37;Rio de Janeiro;Metropolitana; Jardim Carioca;17;1
+37;Rio de Janeiro;Metropolitana; Jardim Guanabara;17;1
+33;Rio de Janeiro;Metropolitana; Jardim Sulacap;14;2
+16;Rio de Janeiro;Metropolitana; Joá;31;2
+15;Rio de Janeiro;Metropolitana; Lagoa;23;1
+5;Rio de Janeiro;Metropolitana; Lapa;5;1
+9;Rio de Janeiro;Metropolitana; Laranjeiras;2;1
+26;Rio de Janeiro;Metropolitana; Lins de Vasconcelos;3;1
+29;Rio de Janeiro;Metropolitana; Madureira;9;2
+33;Rio de Janeiro;Metropolitana; Magalhães Bastos;14;2
+17;Rio de Janeiro;Metropolitana; Mangueira;4;1
+21;Rio de Janeiro;Metropolitana; Manguinhos;22;1
+18;Rio de Janeiro;Metropolitana; Maracanã;6;1
+21;Rio de Janeiro;Metropolitana; Maré;22;1
+30;Rio de Janeiro;Metropolitana; Marechal Hermes;9;2
+44;Rio de Janeiro;Metropolitana; Maria da Graça;3;1
+23;Rio de Janeiro;Metropolitana; Méier;3;1
+37;Rio de Janeiro;Metropolitana; Moneró;17;1
+22;Rio de Janeiro;Metropolitana; Olaria;16;1
+29;Rio de Janeiro;Metropolitana; Oswaldo Cruz;9;2
+30;Rio de Janeiro;Metropolitana; Oswaldo Cruz;9;2
+34;Rio de Janeiro;Metropolitana; Padre Miguel;14;2
+5;Rio de Janeiro;Metropolitana; Paquetá;5;1
+38;Rio de Janeiro;Metropolitana; Parada de Lucas;16;1
+31;Rio de Janeiro;Metropolitana; Parque Anchieta;41;2
+39;Rio de Janeiro;Metropolitana; Parque Colúmbia;41;2
+39;Rio de Janeiro;Metropolitana; Pavuna;41;2
+41;Rio de Janeiro;Metropolitana; Pechincha;18;2
+43;Rio de Janeiro;Metropolitana; Pedra de Guaratiba;27;2
+22;Rio de Janeiro;Metropolitana; Penha;16;1
+22;Rio de Janeiro;Metropolitana; Penha Circular;16;1
+24;Rio de Janeiro;Metropolitana; Piedade;3;1
+24;Rio de Janeiro;Metropolitana; Pilares;3;1
+37;Rio de Janeiro;Metropolitana; Pitangueiras;17;1
+37;Rio de Janeiro;Metropolitana; Portuguesa;17;1
+18;Rio de Janeiro;Metropolitana; Praça da Bandeira;6;1
+28;Rio de Janeiro;Metropolitana; Praça Seca;18;2
+37;Rio de Janeiro;Metropolitana; Praia da Bandeira;17;1
+29;Rio de Janeiro;Metropolitana; Quintino Bocaiúva;9;2
+21;Rio de Janeiro;Metropolitana; Ramos;22;1
+33;Rio de Janeiro;Metropolitana; Realengo;14;2
+42;Rio de Janeiro;Metropolitana; Recreio dos Bandeirantes;31;2
+25;Rio de Janeiro;Metropolitana; Riachuelo;3;1
+37;Rio de Janeiro;Metropolitana; Ribeira;17;1
+31;Rio de Janeiro;Metropolitana; Ricardo de Albuquerque;41;2
+6;Rio de Janeiro;Metropolitana; Rio Comprido;4;1
+25;Rio de Janeiro;Metropolitana; Rocha;3;1
+40;Rio de Janeiro;Metropolitana; Rocha Miranda;9;2
+25;Rio de Janeiro;Metropolitana; Sampaio;3;1
+35;Rio de Janeiro;Metropolitana; Santíssimo;40;2
+4;Rio de Janeiro;Metropolitana; Santo Cristo;5;1
+15;Rio de Janeiro;Metropolitana; São Conrado;23;1
+17;Rio de Janeiro;Metropolitana; São Cristóvão;4;1
+25;Rio de Janeiro;Metropolitana; São Francisco Xavier;3;1
+4;Rio de Janeiro;Metropolitana; Saúde;5;1
+34;Rio de Janeiro;Metropolitana; Senador Camará;14;2
+35;Rio de Janeiro;Metropolitana; Senador Vasconcelos;40;2
+43;Rio de Janeiro;Metropolitana; Sepetiba;27;2
+28;Rio de Janeiro;Metropolitana; Tanque;18;2
+41;Rio de Janeiro;Metropolitana; Tanque;18;2
+32;Rio de Janeiro;Metropolitana; Taquara;18;2
+37;Rio de Janeiro;Metropolitana; Tauá;17;1
+18;Rio de Janeiro;Metropolitana; Tijuca;6;1
+19;Rio de Janeiro;Metropolitana; Tijuca;6;1
+23;Rio de Janeiro;Metropolitana; Todos os Santos;3;1
+26;Rio de Janeiro;Metropolitana; Todos os Santos;3;1
+44;Rio de Janeiro;Metropolitana; Tomás Coelho;3;1
+29;Rio de Janeiro;Metropolitana; Turiaçu;9;2
+10;Rio de Janeiro;Metropolitana; Urca;2;1
+42;Rio de Janeiro;Metropolitana; Vargem Grande;31;2
+42;Rio de Janeiro;Metropolitana; Vargem Pequena;31;2
+17;Rio de Janeiro;Metropolitana; Vasco da Gama;4;1
+29;Rio de Janeiro;Metropolitana; Vaz Lobo;9;2
+27;Rio de Janeiro;Metropolitana; Vicente de Carvalho;41;2
+15;Rio de Janeiro;Metropolitana; Vidigal;23;1
+38;Rio de Janeiro;Metropolitana; Vigário Geral;16;1
+27;Rio de Janeiro;Metropolitana; Vila da Penha;41;2
+20;Rio de Janeiro;Metropolitana; Vila Isabel;6;1
+27;Rio de Janeiro;Metropolitana; Vila Kosmos;41;2
+33;Rio de Janeiro;Metropolitana; Vila Militar;14;2
+28;Rio de Janeiro;Metropolitana; Vila Valqueire;18;2
+27;Rio de Janeiro;Metropolitana; Vista Alegre;41;2
+37;Rio de Janeiro;Metropolitana; Zumbi;17;1
+9;Rio de Janeiro;Metropolitana;Catete;2;1
+1;Rio de Janeiro;Metropolitana;Centro;5;1
+12;Rio de Janeiro;Metropolitana;Copacabana;19;1
+13;Rio de Janeiro;Metropolitana;Copacabana;19;1
+14;Rio de Janeiro;Metropolitana;Ipanema;23;1
+14;Rio de Janeiro;Metropolitana;Leblon;23;1
+12;Rio de Janeiro;Metropolitana;Leme;19;1
+36;Rio de Janeiro;Metropolitana;Paciência;27;2
+38;Rio de Janeiro;Metropolitana;Penha Circular;16;1
+11;Rio de Janeiro;Metropolitana;Rocinha;23;1
+36;Rio de Janeiro;Metropolitana;Santa Cruz;27;2
+7;Rio de Janeiro;Metropolitana;Santa Teresa;5;1
+156;Santa Maria Madalena;Serrana;Doutor Loreti;11;7
+156;Santa Maria Madalena;Serrana;Renascença;11;7
+156;Santa Maria Madalena;Serrana;Santa Maria Madalena;11;7
+156;Santa Maria Madalena;Serrana;Santo Antônio do Imbé;11;7
+156;Santa Maria Madalena;Serrana;Sossego e Triunfo;11;7
+136;Santo Antônio de Pádua;Noroeste Fluminense;Baltazar;36;6
+136;Santo Antônio de Pádua;Noroeste Fluminense;Campelo;36;6
+136;Santo Antônio de Pádua;Noroeste Fluminense;Ibitiguaçú;36;6
+136;Santo Antônio de Pádua;Noroeste Fluminense;Marangatú;36;6
+136;Santo Antônio de Pádua;Noroeste Fluminense;Monte Alegre;36;6
+136;Santo Antônio de Pádua;Noroeste Fluminense;Paraoquena;36;6
+136;Santo Antônio de Pádua;Noroeste Fluminense;Santa Cruz;36;6
+136;Santo Antônio de Pádua;Noroeste Fluminense;Santo Antônio de Pádua;36;6
+136;Santo Antônio de Pádua;Noroeste Fluminense;São Pedro de Alcântara;36;6
+141;São Fidélis;Norte Fluminense;Cambiasca;8;6
+141;São Fidélis;Norte Fluminense;Colonia;8;6
+141;São Fidélis;Norte Fluminense;Ipuca;8;6
+141;São Fidélis;Norte Fluminense;Pureza;8;6
+141;São Fidélis;Norte Fluminense;São Fidelis;8;6
+147;São Francisco de Itabapoana;Norte Fluminense;Barra Seca;8;6
+147;São Francisco de Itabapoana;Norte Fluminense;Maniva;8;6
+147;São Francisco de Itabapoana;Norte Fluminense;São Francisco de Itabapoana;8;6
+75;São Gonçalo;Metropolitana;Ipiiba e Sete Pontes;7;4
+74;São Gonçalo;Metropolitana;Monjolo;7;4
+73;São Gonçalo;Metropolitana;Neves;7;4
+72;São Gonçalo;Metropolitana;São Gonçalo;7;4
+145;São João da Barra;Norte Fluminense;Atafona;8;6
+145;São João da Barra;Norte Fluminense;Barcelos;8;6
+145;São João da Barra;Norte Fluminense;Cajueiro;8;6
+145;São João da Barra;Norte Fluminense;Grussaí;8;6
+145;São João da Barra;Norte Fluminense;Pipeiras;8;6
+145;São João da Barra;Norte Fluminense;São João da Barra;8;6
+64;São João de Meriti;Metropolitana; Coelho da Rocha;21;3
+64;São João de Meriti;Metropolitana; São João de Meriti;21;3
+64;São João de Meriti;Metropolitana; São Mateus;21;3
+143;São José de Ubá;Noroeste Fluminense;São José de Ubá;29;6
+104;São José do Vale do Rio Preto;Serrana;São José do Vale do Rio Preto;30;7
+125;São Pedro da Aldeia;Baixadas Litorâneas;São Pedro da Aldeia;25;4
+155;São Sebastião do Alto;Serrana;Ipituna;36;6
+155;São Sebastião do Alto;Serrana;São Sebastião do Alto;36;6
+155;São Sebastião do Alto;Serrana;Valão do Barro;36;6
+109;Sapucaia;Centro-Sul Fluminense;Anta;38;7
+109;Sapucaia;Centro-Sul Fluminense;Jamapara;38;7
+109;Sapucaia;Centro-Sul Fluminense;Nossa Senhora Aparecida;38;7
+109;Sapucaia;Centro-Sul Fluminense;Pião;38;7
+109;Sapucaia;Centro-Sul Fluminense;Sapucaia;38;7
+124;Saquarema;Baixadas Litorâneas; Bacaxá;25;4
+124;Saquarema;Baixadas Litorâneas; Sampaio Correia;25;4
+124;Saquarema;Baixadas Litorâneas; Saquarema;25;4
+48;Seropédica;Metropolitana;Seropédica;24;3
+120;Silva Jardim;Baixadas Litorâneas; Aldeia Velha;35;4
+120;Silva Jardim;Baixadas Litorâneas; Correntezas;35;4
+120;Silva Jardim;Baixadas Litorâneas; Gaviões;35;4
+120;Silva Jardim;Baixadas Litorâneas; Silva Jardim;35;4
+111;Sumidouro;Serrana;Sumidouro;30;7
+70;Tanguá;Metropolitana;Tanguá;35;4
+110;Teresópolis;Serrana;Teresópolis;30;7
+110;Teresópolis;Serrana;Vale do Bonsucesso;30;7
+110;Teresópolis;Serrana;Vale do Paquequer;30;7
+157;Trajano de Moraes;Serrana;Doutor Elias;11;7
+157;Trajano de Moraes;Serrana;Sodrelândia;11;7
+157;Trajano de Moraes;Serrana;Trajano de Moraes;11;7
+157;Trajano de Moraes;Serrana;Vila da Grama;11;7
+157;Trajano de Moraes;Serrana;Visconde de Imbé;11;7
+108;Três Rios;Centro-Sul Fluminense;Três Rios e Bemposta;38;7
+91;Valença;Médio Paraíba; Barão de Juparana;10;5
+91;Valença;Médio Paraíba; Conservatória;10;5
+91;Valença;Médio Paraíba; Parapeúna;10;5
+91;Valença;Médio Paraíba; Pentagna;10;5
+91;Valença;Médio Paraíba; Santa Isabel do Rio Preto;10;5
+91;Valença;Médio Paraíba; Valença;10;5
+140;Varre-Sai;Noroeste Fluminense;Varre-Sai;29;6
+95;Vassouras;Centro-Sul Fluminense; Andrade Pinto;10;5
+95;Vassouras;Centro-Sul Fluminense; São Sebastião dos Ferreiros;10;5
+95;Vassouras;Centro-Sul Fluminense; Sebastião de Lacerda;10;5
+95;Vassouras;Centro-Sul Fluminense; Vassouras;10;5
+93;Volta Redonda;Médio Paraíba;Volta Redonda;28;5
